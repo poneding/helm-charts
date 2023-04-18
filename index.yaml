@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-18T14:35:23.302792887Z"
+    description: A Helm chart for Kubernetes
+    digest: adaf1ec773e115d550e8a2f3ca02276f0d2cf8bc8624fd1d4d8904a5c35e4b23
+    name: myapp
+    type: application
+    urls:
+    - https://github.com/poneding/helm-charts/releases/download/myapp-1.0.0/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-04-18T14:35:23.302804688Z"
